@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @ASaeedDEV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @ASaeedDev  
+**DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast**
 
-<!---
-ASaeedDEV/ASaeedDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- Cloud Platforms: AWS, Azure, GCP  
+- CI/CD Pipelines & Automation  
+- Infrastructure as Code: Terraform, Ansible  
+- Containerization: Docker & Kubernetes  
+- Site Reliability Engineering (SRE)  
+- Monitoring & Observability (Prometheus, Grafana)
+
+**Currently Learning**  
+- GitOps with ArgoCD  
+- Serverless Architectures  
+- Advanced Kubernetes and Helm  
+- Security best practices in DevOps
+
+**Looking to Collaborate On**  
+- Scalable infrastructure deployments  
+- Cloud-native application delivery  
+- Open-source DevOps projects
+
+**Contact**  
+- Email: asaeeddev9@gmail.com
